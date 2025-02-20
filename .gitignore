@@ -1,6 +1,6 @@
 # Ignore model files
 models/colorization_release_v2.caffemodel
-models/pts_in_hull.npy
+
 
 # Ignore Python cache files
 __pycache__/
