@@ -19,5 +19,4 @@ env/
 # Ignore image uploads and outputs (optional)
 uploads/
 outputs/
-*.png
-*.jpg
+temp/
